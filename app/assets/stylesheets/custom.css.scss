@@ -3,7 +3,7 @@ html {
 }
 body {
 	padding-top: 40px;
-	background: url(background.jpg) no-repeat center center fixed; 
+	background: url(background.jpg) no-repeat center center fixed;
   	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -22,9 +22,8 @@ nav {
 
 header {
 	height: 800px;
-	
 	text-align: center;
-	margin-bottom: 20px;	
+	margin-bottom: 20px;
 }
 
 .content {
@@ -46,7 +45,7 @@ footer {
 	color: #34231D;
 }
 
-.row-fluid {	
+.row-fluid {
 	min-height: 200px;
 	padding: 20px;
 	background-color: #FAEEC8;
@@ -58,6 +57,10 @@ footer {
 	iframe{
 		border: 9px solid white;
 	}
+}
+
+.music iframe{
+	margin: auto;
 }
 
 h2 {
